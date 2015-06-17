@@ -1,8 +1,8 @@
 #####################
 # Vagrant-CentOS-Box
-# based on config.vm.box = "hp-ess/docker"
-# Ordner vagrant mit cntlm.rpm darin anlegen od. default shared Ordner ./vagrant verwenden.
-# Box with cntlm, docker, docker-compose and vboxguestadditions
+based on config.vm.box = "hp-ess/docker"
+create folder vagrant with cntlm.rmp in it or use default shared folder ./vagrant.
+Box with cntlm, docker, docker-compose and vboxguestadditions
 #####################
 
 #####################
