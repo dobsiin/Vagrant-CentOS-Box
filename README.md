@@ -21,7 +21,7 @@ sudo /sbin/chkconfig --add cntlmd
 sudo /sbin/chkconfig --list cntlmd
 sudo /sbin/chkconfig cntlmd on
 #####################
-# yum proxy
+# yum proxy 
 #####################
 nothing to do here, because Vagrantfile took care of it
 #####################
