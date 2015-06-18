@@ -23,7 +23,7 @@ sudo /sbin/chkconfig cntlmd on
 #####################
 # yum proxy
 #####################
-# nothing to do here, because Vagrantfile took care of it
+nothing to do here, because Vagrantfile took care of it
 #####################
 # vbox guestadd install
 #####################
@@ -57,7 +57,7 @@ sudo systemctl restart docker
 # pull first image to test
 sudo docker pull centos
 #####################
-# Base Image 158.226.125.18:5000:centos:v1 erstellen
+# create Base Image 158.226.125.18:5000:centos:v1
 #####################
 sh /root/Container/centos/createBaseImage.sh
 #####################
